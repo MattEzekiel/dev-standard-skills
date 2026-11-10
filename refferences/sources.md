@@ -1,5 +1,4 @@
 # Reference sources
-# Reference sources
 
 Contents:
 1. How to consult sources (read this first)
